@@ -1,11 +1,13 @@
-# 29 actuarial, pricing and catastrophe modelling roles
+# 30 actuarial, pricing and catastrophe modelling roles
 
-**29 roles at 15 companies.** Checked 15 Oct 2026. Actuarial, pricing, reserving and capital modelling, exposure management and catastrophe (cat) modelling.
+**30 roles at 17 companies.** Checked 20 Oct 2026. Actuarial, pricing, reserving and capital modelling, exposure management and catastrophe (cat) modelling.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **PIC** | [Actuarial Developer - 12 month fixed term contract](https://trylitos.com/job/532eea51-999e-4725-a562-534c6e5055b0?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London, England, United Kingdom |  | Oct 14 |  |
+| **M&G** | [IFRS17 Analysis Actuary](https://trylitos.com/job/bfbab7cd-4d3e-4072-b958-5ff95e30dbde?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Stirling; Edinburgh |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
 | **Bupa** | [Actuarial Placement Student](https://trylitos.com/job/626962f6-97a4-4359-8e18-ced343046c42?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **Bupa** | [Actuarial Pricing Analyst](https://trylitos.com/job/c9adf54d-2986-4c33-a8d2-2c10ca66a6e9?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Staines; Salford Quays; Angel Court, London |  | Oct 12 |  |
 | **Bupa** | [Capital Modelling Actuarial Analyst](https://trylitos.com/job/a010f818-cda0-4e15-aca9-c440482bfbe0?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Angel Court, London; Staines |  | Oct 9 |  |
@@ -17,7 +19,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **MS Amlin** | [Adaptation & Resilience Pricing Analyst](https://trylitos.com/job/2451cd5f-8631-4085-bfa7-18f181c06390?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 28 |  |
 | **Hiscox** | [Senior Pricing Analyst](https://trylitos.com/job/a5ac59c6-ccdb-4aae-a653-8445075fc886?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 25 |  |
 | **AXIS Capital** | [Senior Portfolio Pricing Actuary](https://trylitos.com/job/2b6d0485-4090-4b97-8a83-0e4e9452e5b1?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London - Scalpel |  | Sep 16 |  |
-| **Chaucer Group** | [Exposure Management Operations Manager](https://trylitos.com/job/11519274-85bc-4237-8217-b008fd776b9f?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 16 |  |
 | **Chaucer Group** | [Specialty Associate Analyst - Exposure Management](https://trylitos.com/job/7db1c30a-7eb6-4ecf-9fee-52a0a4644ffa?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 15 |  |
 | **Capita** | [Actuarial Analyst GMP](https://trylitos.com/job/507f033d-a92e-4e8a-b623-fb992e713fff?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Home-Based - GBR |  | Sep 11 |  |
 | **Unum** | [Senior Actuarial Manager, Pricing](https://trylitos.com/job/b58ef4d7-4eae-426d-a8cb-3dbddc9bc9b9?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Dorking, Surrey, UK; London |  | Sep 9 |  |

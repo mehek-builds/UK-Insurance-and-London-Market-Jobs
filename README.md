@@ -1,6 +1,6 @@
 # UK Insurance and London Market Jobs (Lloyd's, Underwriting, Broking, Claims, Actuarial)
 
-**236 open insurance and London Market roles in the UK at 37 employers.** Checked 15 Oct 2026. 61 posted in the last 7 days. 0 at employers with a visa sponsorship record.
+**227 open insurance and London Market roles in the UK at 38 employers.** Checked 20 Oct 2026. 48 posted in the last 7 days. 9 at employers with a visa sponsorship record.
 
 Insurance, reinsurance and London Market (Lloyd's) roles across the UK: underwriting, broking and account handling, claims and loss adjusting, actuarial, pricing, exposure management and catastrophe modelling, reinsurance, and delegated authority and insurance operations, plus insurance graduate schemes, internships and apprenticeships. Risk, compliance and portfolio roles count when the employer is an insurer, reinsurer, Lloyd's syndicate or broker. Every seniority is here except director, VP, head and chief titles. Mortgage and loan underwriting, customs and freight broking, and pricing roles outside insurance are left out.
 
@@ -8,14 +8,14 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 
 | List | Roles | Employers |
 | --- | --- | --- |
-| [Underwriting](lists/underwriting.md) | 59 | 13 |
-| [Broking and account handling](lists/broking.md) | 11 | 5 |
-| [Claims and loss adjusting](lists/claims.md) | 80 | 19 |
-| [Actuarial, pricing and catastrophe modelling](lists/actuarial-pricing-modelling.md) | 29 | 15 |
-| [Reinsurance](lists/reinsurance.md) | 9 | 8 |
-| [Delegated authority, risk and insurance operations](lists/delegated-authority-operations.md) | 68 | 26 |
-| [Graduate schemes, internships and apprenticeships](lists/graduate-internships.md) | 23 | 10 |
-| [London (Lloyd's and the London Market)](lists/london.md) | 151 | 34 |
+| [Underwriting](lists/underwriting.md) | 58 | 14 |
+| [Broking and account handling](lists/broking.md) | 10 | 4 |
+| [Claims and loss adjusting](lists/claims.md) | 72 | 19 |
+| [Actuarial, pricing and catastrophe modelling](lists/actuarial-pricing-modelling.md) | 30 | 17 |
+| [Reinsurance](lists/reinsurance.md) | 9 | 7 |
+| [Delegated authority, risk and insurance operations](lists/delegated-authority-operations.md) | 62 | 23 |
+| [Graduate schemes, internships and apprenticeships](lists/graduate-internships.md) | 25 | 9 |
+| [London (Lloyd's and the London Market)](lists/london.md) | 144 | 30 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -23,6 +23,31 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Resolution Life** | [Senior Legal Counsel, Reinsurance](https://trylitos.com/job/3f05e89f-e27b-4353-babb-a188ccb3ae28?utm_source=github&utm_campaign=uk-insurance-london) | UK - London Office |  | Oct 20 |  |
+| **Howden** | [Operations Administrator](https://trylitos.com/job/65595339-2825-49f2-aa69-f4530488d9bf?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Rugby |  | Oct 19 | Employer holds a UK sponsor licence (Home Office register) |
+| **Arch Capital Group** | [Underwriter, Cargo](https://trylitos.com/job/6877896d-7af8-445b-9586-92f8619b6d00?utm_source=github&utm_campaign=uk-insurance-london) | London, United Kingdom |  | Oct 19 |  |
+| **joining our Sedgwick family** | [Liability Adjuster / Claims Investigator - Third Party Property Damage](https://trylitos.com/job/81519a72-fa82-4ecf-9be8-f48a04c1e25b?utm_source=github&utm_campaign=uk-insurance-london) | UK-London |  | Oct 19 |  |
+| **Markel** | [Claims Analytics Lead](https://trylitos.com/job/82492fba-9c0e-4a19-9860-7a6c2fc9eb5e?utm_source=github&utm_campaign=uk-insurance-london) | London - UK |  | Oct 19 |  |
+| **Ki** | [Digital Underwriting Assistant](https://trylitos.com/job/bc611b05-00c5-4f09-9f24-a4055e1b292c?utm_source=github&utm_campaign=uk-insurance-london) | London, England, United Kingdom |  | Oct 19 |  |
+| **Arch Capital Group** | [Insurance Technician](https://trylitos.com/job/f10dd515-3ce5-42d7-ac75-0e30b54a0f40?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Manchester, United Kingdom |  | Oct 19 |  |
+| **Bupa** | [BUPA Finance & Governance Placement](https://trylitos.com/job/1867a82a-8865-4ae0-83fa-873ab7134813?utm_source=github&utm_campaign=uk-insurance-london) | Salford Quays; Angel Court, London |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **joining our Sedgwick family** | [Property Adjuster - Solent](https://trylitos.com/job/3b5bfc51-628f-486c-af5e-8ce27dea4577?utm_source=github&utm_campaign=uk-insurance-claims) | Solent |  | Oct 16 |  |
+| **Howden** | [Data Governance Lead](https://trylitos.com/job/7bdff21d-02f1-40d8-a401-73b43cdedb73?utm_source=github&utm_campaign=uk-insurance-london) | London |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Howden** | [Commercial Account Handler](https://trylitos.com/job/7c7308bb-fa7c-4a91-9be6-70c84b00430d?utm_source=github&utm_campaign=uk-insurance-broking) | Malvern |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Travelers** | [Underwriter, Cargo](https://trylitos.com/job/a317522d-1089-45db-ae29-82462ee2fcae?utm_source=github&utm_campaign=uk-insurance-london) | LON - London |  | Oct 16 |  |
+| **The Cigna Group** | [Risk & Underwriting Associate Analyst - Cigna Healthcare](https://trylitos.com/job/131214ac-2f2a-4ef2-a9a0-c25b2ee1a174?utm_source=github&utm_campaign=uk-insurance-underwriting) | Glasgow, Scotland |  | Oct 15 | Employer holds a UK sponsor licence (Home Office register) |
+| **Travelers** | [Underwriting Assistant - Renewable Energy - 12 month FTC](https://trylitos.com/job/197ffd1e-d930-41fa-ba9c-9b9397204552?utm_source=github&utm_campaign=uk-insurance-london) | LON - London |  | Oct 15 |  |
+| **joining our Sedgwick family** | [Motor Claims Technician](https://trylitos.com/job/51d685f7-ee66-4282-8d7c-e2acb63129f5?utm_source=github&utm_campaign=uk-insurance-claims) | UK Home Worker |  | Oct 15 |  |
+| **Markel** | [Underwriter - Hull & War](https://trylitos.com/job/528b9447-3829-4a64-a403-74acb0bd4f52?utm_source=github&utm_campaign=uk-insurance-london) | London - UK |  | Oct 15 |  |
+| **Howden** | [Insurance Advisor](https://trylitos.com/job/53106eb6-c9bb-4acc-9b6d-482734c0da47?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Loughborough |  | Oct 15 | Employer holds a UK sponsor licence (Home Office register) |
+| **AXIS Capital** | [Underwriter - Portfolio Solutions (Property)](https://trylitos.com/job/79dc5621-9af8-414c-9c01-019ac18f7435?utm_source=github&utm_campaign=uk-insurance-london) | London - Scalpel |  | Oct 15 |  |
+| **joining our Sedgwick family** | [Claims Technician](https://trylitos.com/job/90d42e0e-0c06-430a-8cd3-7cecfa2c4ce1?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Oct 15 |  |
+| **AIG** | [Complex Motor Claims Handler](https://trylitos.com/job/c85878cf-ffca-4ff0-9c97-c42a1a2a5dea?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester |  | Oct 15 |  |
+| **joining our Sedgwick family** | [Property Adjuster - Scotland](https://trylitos.com/job/de4126ab-c454-4fe3-beff-e5430910a586?utm_source=github&utm_campaign=uk-insurance-claims) | Glasgow |  | Oct 15 |  |
+| **PIC** | [Actuarial Developer - 12 month fixed term contract](https://trylitos.com/job/532eea51-999e-4725-a562-534c6e5055b0?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London, England, United Kingdom |  | Oct 14 |  |
+| **Howden** | [Product Governance Manager](https://trylitos.com/job/aca2f2f8-278b-4233-a7c1-26c92fd1ce74?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Home - UK- England |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
+| **M&G** | [IFRS17 Analysis Actuary](https://trylitos.com/job/bfbab7cd-4d3e-4072-b958-5ff95e30dbde?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Stirling; Edinburgh |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
+| **Howden** | [HR Assistant](https://trylitos.com/job/e5676ae8-5928-4f43-a402-c8b595a2a643?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Milton Keynes - The Avebury |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
 | **AXIS Capital** | [Underwriter - Portfolio Solutions (Financial Lines)](https://trylitos.com/job/5403e049-70b2-4261-97ed-7f20f636b0b5?utm_source=github&utm_campaign=uk-insurance-underwriting) | London - Scalpel |  | Oct 15 |  |
 | **AXIS Capital** | [Underwriter, Cyber & Technology](https://trylitos.com/job/bcdb46bb-9cfd-4871-af88-7505bc9a6d5b?utm_source=github&utm_campaign=uk-insurance-underwriting) | London - Scalpel |  | Oct 12 |  |
 | **Arch Capital Group** | [Underwriting Assistant, Contingency - 12 month FTC](https://trylitos.com/job/c4b3a43d-37ab-458a-a3be-5ee3f298e06b?utm_source=github&utm_campaign=uk-insurance-underwriting) | London, United Kingdom |  | Oct 12 |  |
@@ -43,7 +68,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Arch Capital Group** | [Underwriter](https://trylitos.com/job/47a431cb-d9aa-4849-b8e1-6cd0acd4e228?utm_source=github&utm_campaign=uk-insurance-underwriting) | Glasgow, United Kingdom; Manchester, United K |  | Sep 30 |  |
 | **Markel** | [Development Underwriter (Care Sector)](https://trylitos.com/job/bcc152f6-f01f-4f9e-9f5c-577292b8d50c?utm_source=github&utm_campaign=uk-insurance-underwriting) | Glasgow - GBR; Manchester - UK; Leeds - UK; L |  | Sep 25 |  |
 | **Arch Capital Group** | [Senior P&C New Business Underwriter](https://trylitos.com/job/9109c892-b879-4414-babe-28f1c7b3c656?utm_source=github&utm_campaign=uk-insurance-underwriting) | Kent, United Kingdom |  | Sep 25 |  |
-| **Hiscox** | [Cyber Underwriter](https://trylitos.com/job/04526d7d-1e68-47d1-9313-1e7eb3713925?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Sep 25 |  |
 | **AIG** | [Senior Underwriter, Financial Lines](https://trylitos.com/job/1611a214-3712-4434-8e3b-d16f7ac0d190?utm_source=github&utm_campaign=uk-insurance-underwriting) | Manchester |  | Sep 24 |  |
 | **Travelers** | [Underwriter - Marine Energy & Liability](https://trylitos.com/job/4624be2c-6dc1-418c-a075-a8d07887d880?utm_source=github&utm_campaign=uk-insurance-underwriting) | LON - London |  | Sep 24 |  |
 | **AIG** | [Senior Underwriter, Casualty](https://trylitos.com/job/d927edb2-e92f-49ef-84cd-c04dea786b99?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Sep 23 |  |
@@ -55,7 +79,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Markel** | [Assistant Underwriter](https://trylitos.com/job/318377ae-86fe-458d-b0de-8a2ba2156493?utm_source=github&utm_campaign=uk-insurance-underwriting) | Leeds - UK |  | Sep 16 |  |
 | **Markel** | [Senior Underwriter - Life Science](https://trylitos.com/job/c448dfc6-7fe7-49ac-9548-44475ce23e87?utm_source=github&utm_campaign=uk-insurance-underwriting) | Leeds - UK; Manchester - UK |  | Sep 15 |  |
 | **Markel** | [New Business Underwriter (Care)](https://trylitos.com/job/8ad8a56d-8b50-4b6c-89fa-d0a726cc9943?utm_source=github&utm_campaign=uk-insurance-underwriting) | Birmingham - UK; London - UK; Manchester - UK |  | Sep 14 |  |
-| **Markel** | [Technology Underwriter](https://trylitos.com/job/db447b22-b24c-465c-9094-c8c4ef71679a?utm_source=github&utm_campaign=uk-insurance-underwriting) | London - UK |  | Sep 11 |  |
 | **Tokio Marine HCC** | [Underwriter - Professional Risks](https://trylitos.com/job/b5a34a1d-4b81-45c9-871a-699b140d9c29?utm_source=github&utm_campaign=uk-insurance-underwriting) | UK - London ( St Botolph ) |  | Sep 9 |  |
 | **Arch Capital Group** | [Senior Underwriter, Contingency](https://trylitos.com/job/096ea111-2703-474e-bd24-e6d85fc831e1?utm_source=github&utm_campaign=uk-insurance-underwriting) | London, United Kingdom |  | Sep 1 |  |
 | **AIG** | [Underwriting Operations Support  Manager](https://trylitos.com/job/d5df7686-a1f1-4a58-b232-4b0032a47221?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Aug 27 |  |
@@ -68,20 +91,14 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **MS Amlin** | [Senior Underwriter - Professional Indemnity](https://trylitos.com/job/cb607d89-e9a3-4370-9c22-77236bc798f1?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Aug 5 |  |
 | **Arch Capital Group** | [Underwriting Team Manager](https://trylitos.com/job/52021535-a89f-4046-9b0f-e1ad357e0197?utm_source=github&utm_campaign=uk-insurance-underwriting) | St. Albans, United Kingdom |  | Aug 3 |  |
 | **Tokio Marine HCC** | [Commercial Underwriter (South Wales and South West England)](https://trylitos.com/job/947c7555-d48b-4f59-b9ce-1d4b5d6ca8c5?utm_source=github&utm_campaign=uk-insurance-underwriting) | Remote - UK |  | Jul 24 |  |
-| **Travelers** | [Senior Underwriter - New Business](https://trylitos.com/job/817ac4ce-e407-480e-9489-1c5fbe5b7cec?utm_source=github&utm_campaign=uk-insurance-underwriting) | WML - Birmingham |  | Jul 3 |  |
 | **Chaucer Group** | [Class Underwriter - Marine PI](https://trylitos.com/job/8aef54b9-15d8-42e0-9e9b-a218626addbc?utm_source=github&utm_campaign=uk-insurance-underwriting) | GB London |  | Jul 2 |  |
 | **Chaucer Group** | [Senior Class Underwriter - Transport Logistics Lead](https://trylitos.com/job/b700d5a8-f1f1-471e-8cbc-68020cb9be50?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Jul 1 |  |
-| **AIG** | [Senior Cyber Underwriter](https://trylitos.com/job/8554c2a5-54cc-4488-be1f-e68c72376195?utm_source=github&utm_campaign=uk-insurance-underwriting) | Manchester |  | Jun 30 |  |
 | **Chaucer Group** | [Deputy Class Underwriter - Political Violence](https://trylitos.com/job/d9823214-66d1-4d3c-a9ab-32c95d04b4af?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | Jun 12 |  |
 | **AIG** | [Senior Renewable Energy Underwriter](https://trylitos.com/job/42e2b92c-f72a-46e9-a4dd-ea4873429b3d?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | May 29 |  |
 | **Ryan Specialty** | [Specialty Reinsurance Underwriter/Senior Underwriter](https://trylitos.com/job/d8a54b25-fd8e-48ae-bb4f-5706320e731e?utm_source=github&utm_campaign=uk-insurance-underwriting) | London - UK - Fenchurch |  | May 21 |  |
 | **Ryan Specialty** | [Senior Underwriter](https://trylitos.com/job/3ec1ef1d-cc6f-43bd-9ed3-824b255b3aeb?utm_source=github&utm_campaign=uk-insurance-underwriting) | London - UK - Fenchurch |  | May 12 |  |
 | **Chaucer Group** | [Delegated Authority Underwriter - International General Liability](https://trylitos.com/job/13463e87-d16c-4c82-b86a-109134f99adb?utm_source=github&utm_campaign=uk-insurance-underwriting) | London |  | May 7 |  |
-| **Arch Capital Group** | [Underwriter Existing Business P&C](https://trylitos.com/job/15c70de4-6195-405c-bb57-3d7b67fa3794?utm_source=github&utm_campaign=uk-insurance-underwriting) | Bristol, United Kingdom |  | Nov 3 |  |
-| **Arch Capital Group** | [Underwriter/Senior Underwriter, NACT](https://trylitos.com/job/20cfd921-fc8c-4201-9d5e-ed2b0803e538?utm_source=github&utm_campaign=uk-insurance-underwriting) | London, United Kingdom |  | Oct 7 |  |
-| **Arch Capital Group** | [Senior Underwriter - P&C](https://trylitos.com/job/53d0c3af-82a2-4df2-a11a-fe8d4e5f2535?utm_source=github&utm_campaign=uk-insurance-underwriting) | Bristol, United Kingdom |  | Jun 17 |  |
 | **Ki** | [Assistant Underwriter - Cyber & Tech E&O](https://trylitos.com/job/a8776a86-0590-4a2e-80ff-1c64127fcb6a?utm_source=github&utm_campaign=uk-insurance-underwriting) | London, England, United Kingdom |  | Sep 15 |  |
-| **Ki** | [Assistant Underwriter - Property Worldwide](https://trylitos.com/job/695c1d04-da52-435d-96d0-33d86fb6e1e9?utm_source=github&utm_campaign=uk-insurance-underwriting) | London, England, United Kingdom |  | Sep 15 |  |
 | **Howden** | [Senior Account Handler](https://trylitos.com/job/4d869d4f-ce35-4094-8d72-1fa6264522c0?utm_source=github&utm_campaign=uk-insurance-broking) | Bristol |  | Oct 14 |  |
 | **Howden** | [Client Broker (FTC) - Commercial & Schemes](https://trylitos.com/job/821487a7-c8f5-4918-b346-e75f3ab1ecd1?utm_source=github&utm_campaign=uk-insurance-broking) | Cheltenham - St James House; Home - UK- Engla |  | Oct 14 |  |
 | **Howden** | [Account Handler](https://trylitos.com/job/5e82c41b-6b6d-4d3e-83f3-8e162aca1a52?utm_source=github&utm_campaign=uk-insurance-broking) | Bristol; Glasgow - 144 West George Street; Pe |  | Oct 14 |  |
@@ -89,10 +106,8 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Howden** | [Reinsurance Broker Support Apprenticeship Programme 2027 - London](https://trylitos.com/job/3c769252-5e48-4ef8-bc58-7aa9e4d45ee3?utm_source=github&utm_campaign=uk-insurance-broking) | London - One Creechurch Place |  | Oct 12 |  |
 | **Howden** | [Commercial Account Handler](https://trylitos.com/job/db5077cb-d412-4582-8813-ccf80d721c0f?utm_source=github&utm_campaign=uk-insurance-broking) | Altrincham; Andover; Chester - Frodsham Stree |  | Oct 8 |  |
 | **DXC Technology** | [Senior Business Analyst - Broking](https://trylitos.com/job/d4823a4c-aa40-4ec6-ad82-f084ce83ae6a?utm_source=github&utm_campaign=uk-insurance-broking) | GBR - ANY CITY |  | Oct 8 |  |
-| **Howden** | [Legacy IBA Account Handler](https://trylitos.com/job/5f69b88d-c2a5-4b92-b9fd-8629e65c7f6c?utm_source=github&utm_campaign=uk-insurance-broking) | Home - UK- England |  | Sep 21 |  |
 | **Howden** | [Senior Corporate Account Handler/ Team Lead](https://trylitos.com/job/fa04b7e1-6f8e-48de-ae82-4d56ac3d3d3d?utm_source=github&utm_campaign=uk-insurance-broking) | Bristol |  | Aug 19 |  |
 | **Ryan Specialty** | [Broker Technician](https://trylitos.com/job/c1756d00-e300-47cc-aae3-d9de4cb0fe3c?utm_source=github&utm_campaign=uk-insurance-broking) | London - UK - Fenchurch |  | Jun 22 |  |
-| **Brown & Brown** | [Commercial Motor Broker Support](https://trylitos.com/job/e56a838d-60aa-4f76-9db6-290cc50e8cc8?utm_source=github&utm_campaign=uk-insurance-broking) | Orpington, England, United Kingdom |  | Oct 14 |  |
 | **Sedgwick** | [Claims Technician - North England](https://trylitos.com/job/de86e6df-77f7-405e-a95f-350f0c6dd5ab?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester; Leeds |  | Oct 15 |  |
 | **Sedgwick** | [Claims Technician - Leeds/Manchester](https://trylitos.com/job/441bfebd-0cbc-40fc-893b-b29306e5aca1?utm_source=github&utm_campaign=uk-insurance-claims) | Leeds; Manchester |  | Oct 15 |  |
 | **Sedgwick** | [Claims Technician - London](https://trylitos.com/job/9376b360-881a-423d-9f89-3016b733e0ae?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Oct 15 |  |
@@ -138,7 +153,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Tokio Marine HCC** | [Claims Business Analyst](https://trylitos.com/job/b8df5f83-3821-4f12-b1f9-0bca4a15dc10?utm_source=github&utm_campaign=uk-insurance-claims) | UK - London ( St Botolph ) |  | Sep 16 |  |
 | **Tokio Marine HCC** | [Claims Technician](https://trylitos.com/job/20732ee0-fea2-4d83-91cc-5839cfbac110?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bridgend |  | Sep 16 |  |
 | **Hiscox** | [LM HPS Claims and Delegated Manager](https://trylitos.com/job/95723a17-061e-4bae-8d2b-6349f59a5b4d?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Sep 15 |  |
-| **Sedgwick** | [Claims Support Technician](https://trylitos.com/job/c6c9b0c8-c22c-45d3-924c-4363b5352f3e?utm_source=github&utm_campaign=uk-insurance-claims) | Cardiff; Birmingham |  | Sep 14 |  |
 | **Howden** | [Claims Handler - Commercial & Schemes](https://trylitos.com/job/89a387e1-ee70-4739-9be0-1edb285b4c21?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester - Howden House |  | Sep 10 |  |
 | **Howden** | [Claims Executive - Commercial & Schemes](https://trylitos.com/job/645821f2-4657-44f1-9a6f-caeb9855c49b?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester - Howden House |  | Sep 10 |  |
 | **Sedgwick** | [Agriculture and Rural Network Claims Technician](https://trylitos.com/job/dd0b9cac-0a4c-47ea-9cae-1477cedc5687?utm_source=github&utm_campaign=uk-insurance-claims) | UK-Shrewsbury |  | Sep 10 |  |
@@ -147,32 +161,18 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Sedgwick** | [Private Clients Loss Adjuster - Birmingham/London & South East](https://trylitos.com/job/9a83ad58-50c0-4771-a300-f10498fca72a?utm_source=github&utm_campaign=uk-insurance-claims) | Birmingham; London |  | Sep 7 |  |
 | **MS Amlin** | [Claims Analytics Analyst - 12 Month Fixed Term Contract](https://trylitos.com/job/8a2dc961-d7b8-4659-b3dd-92c0deb1459d?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Sep 4 |  |
 | **Starr Insurance Companies** | [Claims Administration Assistant (6M FTC)](https://trylitos.com/job/41422902-3ffe-47ca-8097-187a34c01b39?utm_source=github&utm_campaign=uk-insurance-claims) | 30 Fenchurch Avenue, London, UK |  | Aug 28 |  |
-| **Sedgwick** | [Claims Technician - Domestic Major Loss - London](https://trylitos.com/job/e04285e8-e6a6-4f89-8be9-670d26bea5b3?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 27 |  |
-| **Markel** | [Senior Claims Adjuster](https://trylitos.com/job/0db7353e-f355-46bc-8e77-8d8a5f04b6c9?utm_source=github&utm_campaign=uk-insurance-claims) | London - UK |  | Aug 24 |  |
 | **AIG** | [Financial Lines Claims Adjuster](https://trylitos.com/job/449a4567-a6e1-42da-9807-5fd9e05e12c2?utm_source=github&utm_campaign=uk-insurance-claims) | London; Manchester |  | Aug 21 |  |
 | **Sedgwick** | [Team Leader - Subsidence Claims](https://trylitos.com/job/2249d33a-fab0-494e-8baa-4ca35fdab600?utm_source=github&utm_campaign=uk-insurance-claims) | UK-Glasgow |  | Aug 17 |  |
-| **Sedgwick** | [Commercial Property Loss Adjuster](https://trylitos.com/job/01ab0988-07be-4449-9116-e17332423648?utm_source=github&utm_campaign=uk-insurance-claims) | Leeds; Solent; UK-Glasgow; Edinburgh |  | Aug 17 |  |
 | **AXIS Capital** | [Claims Specialist, Liability](https://trylitos.com/job/87217958-f385-4a26-b661-fd95b14a1f06?utm_source=github&utm_campaign=uk-insurance-claims) | London - Scalpel |  | Aug 14 |  |
 | **Aviva** | [Claims Handler - Pet Claims](https://trylitos.com/job/da993405-d2bb-49a5-8c99-c83abd7d7d7f?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bristol - St Thomas Street |  | Aug 14 |  |
 | **MS Amlin** | [US and International Casualty Claims Manager](https://trylitos.com/job/f12ebb8a-e855-477c-ad6b-8027cdd4ba16?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 12 |  |
-| **Sedgwick** | [Commercial Property Claims Technician - Maternity Cover](https://trylitos.com/job/d9412b28-0bd9-4f02-88ce-1215c81cf105?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 11 |  |
-| **Sedgwick** | [Claims Investigator (Motor / Liability)](https://trylitos.com/job/363d9b90-d1f7-4c6b-8593-58faee6bce12?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 7 |  |
-| **Sedgwick** | [Subsidence Claims Consultant](https://trylitos.com/job/a5a59519-41fc-4fa0-adbf-4e3cbfd8cff3?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 6 |  |
-| **Sedgwick** | [Private Clients Loss Adjuster - London & South East](https://trylitos.com/job/b5a8b8ed-81c2-46bd-8d9b-b59f5bda6e27?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 5 |  |
 | **Arch Capital Group** | [Claims Handler](https://trylitos.com/job/0593fb57-85a6-4635-a8d3-dfeff5aacbc5?utm_source=github&utm_campaign=uk-insurance-claims) | Kent, United Kingdom |  | Jul 24 |  |
 | **Howden** | [Senior Claims Executive](https://trylitos.com/job/5e657414-24ab-424b-837e-ad20e69be007?utm_source=github&utm_campaign=uk-insurance-claims) | Birmingham Central - 45 Church Street |  | Jun 29 |  |
 | **Hiscox** | [Claims Quality Assurance Analyst](https://trylitos.com/job/c9a485fc-c3dc-493d-b7ca-47b296fc7b76?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Jun 26 |  |
 | **AXIS Capital** | [Senior Claims Specialist](https://trylitos.com/job/3728ce1f-f2c9-4908-a843-7cabead48c6b?utm_source=github&utm_campaign=uk-insurance-claims) | London - Scalpel |  | Jun 25 |  |
 | **Ryan Specialty** | [Claims Broker Technician](https://trylitos.com/job/74458ffb-1efa-4163-b36a-acdeec4ce94d?utm_source=github&utm_campaign=uk-insurance-claims) | London - UK - Fenchurch |  | Jun 22 |  |
-| **Sedgwick** | [Specialty Loss Adjuster](https://trylitos.com/job/2483b739-f3b8-4838-862f-968138679ea1?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | May 15 |  |
-| **Starr Insurance Companies** | [Claims Adjuster - International Casualty](https://trylitos.com/job/ab0bff4a-cbfe-4737-a3f2-0bcc62afd77c?utm_source=github&utm_campaign=uk-insurance-claims) | 30 Fenchurch Avenue, London, UK |  | Feb 16 |  |
-| **Sedgwick** | [Loss Adjuster - Technical and Special Risks](https://trylitos.com/job/34630c80-8651-473a-aade-6d347f725e5e?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Jan 23 |  |
-| **Sedgwick** | [Senior Loss Adjuster - Technical and Special Risk](https://trylitos.com/job/431ed9f7-1643-4177-b780-4b77fb7f7a4d?utm_source=github&utm_campaign=uk-insurance-claims) | UK Home Worker |  | Jan 23 |  |
-| **Tokio Marine HCC** | [Claims Adjuster - Professional Indemnity](https://trylitos.com/job/68e02f6d-4b96-4764-bf15-3efa7478c3bb?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bristol |  | Oct 28 |  |
 | **Steamship Insurance Management Services Ltd** | [Claims Executive](https://trylitos.com/job/4f326bfc-121d-40ba-abb2-fd30f0e309fc?utm_source=github&utm_campaign=uk-insurance-claims) | London, England, United Kingdom |  | Oct 12 |  |
 | **Steamship Insurance Management Services Ltd** | [Claims Associate](https://trylitos.com/job/6de6702f-88d9-44aa-b268-9f0391204f97?utm_source=github&utm_campaign=uk-insurance-claims) | London, England, United Kingdom |  | Jun 23 |  |
-| **Reserv** | [Bodily Injury/Credit Hire Claims Adjuster, UK](https://trylitos.com/job/ab34ad24-8100-4971-b06c-ea863e56359e?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Jun 8 |  |
-| **Reserv** | [Property Claims Adjuster, UK](https://trylitos.com/job/1f6bcf74-6867-42eb-b004-7b09fe095931?utm_source=github&utm_campaign=uk-insurance-claims) | London, United Kingdom (Remote) |  | Apr 9 |  |
 | **Bupa** | [Actuarial Placement Student](https://trylitos.com/job/626962f6-97a4-4359-8e18-ced343046c42?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **Bupa** | [Actuarial Pricing Analyst](https://trylitos.com/job/c9adf54d-2986-4c33-a8d2-2c10ca66a6e9?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Staines; Salford Quays; Angel Court, London |  | Oct 12 |  |
 | **Bupa** | [Capital Modelling Actuarial Analyst](https://trylitos.com/job/a010f818-cda0-4e15-aca9-c440482bfbe0?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Angel Court, London; Staines |  | Oct 9 |  |
@@ -184,7 +184,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **MS Amlin** | [Adaptation & Resilience Pricing Analyst](https://trylitos.com/job/2451cd5f-8631-4085-bfa7-18f181c06390?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 28 |  |
 | **Hiscox** | [Senior Pricing Analyst](https://trylitos.com/job/a5ac59c6-ccdb-4aae-a653-8445075fc886?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 25 |  |
 | **AXIS Capital** | [Senior Portfolio Pricing Actuary](https://trylitos.com/job/2b6d0485-4090-4b97-8a83-0e4e9452e5b1?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London - Scalpel |  | Sep 16 |  |
-| **Chaucer Group** | [Exposure Management Operations Manager](https://trylitos.com/job/11519274-85bc-4237-8217-b008fd776b9f?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 16 |  |
 | **Chaucer Group** | [Specialty Associate Analyst - Exposure Management](https://trylitos.com/job/7db1c30a-7eb6-4ecf-9fee-52a0a4644ffa?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London |  | Sep 15 |  |
 | **Capita** | [Actuarial Analyst GMP](https://trylitos.com/job/507f033d-a92e-4e8a-b623-fb992e713fff?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Home-Based - GBR |  | Sep 11 |  |
 | **Unum** | [Senior Actuarial Manager, Pricing](https://trylitos.com/job/b58ef4d7-4eae-426d-a8cb-3dbddc9bc9b9?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | Dorking, Surrey, UK; London |  | Sep 9 |  |
@@ -204,9 +203,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Ki** | [Senior Non-Natural Catastrophe Analyst](https://trylitos.com/job/454c3395-712a-40ce-a3b4-eccbaaa0dbde?utm_source=github&utm_campaign=uk-insurance-actuarial-pricing-modelling) | London, United Kingdom |  | May 11 |  |
 | **Chaucer Group** | [Senior Reinsurance Technician](https://trylitos.com/job/4f5d26e4-79f5-4e1b-8388-1d6fd8562bbe?utm_source=github&utm_campaign=uk-insurance-reinsurance) | London |  | Oct 13 |  |
 | **Markel** | [Senior Reinsurance Technician](https://trylitos.com/job/5dd9596f-d2bf-44d6-9955-b9702d92b04a?utm_source=github&utm_campaign=uk-insurance-reinsurance) | London - UK |  | Oct 6 |  |
-| **Steamship Insurance Management Services Ltd** | [Reinsurance Assistant](https://trylitos.com/job/e9353aff-bcc9-4d81-b666-0a3c14ec961e?utm_source=github&utm_campaign=uk-insurance-reinsurance) | London, England, United Kingdom |  | Sep 10 |  |
 | **Ki** | [Outwards Reinsurance Manager](https://trylitos.com/job/212f6376-d5f5-440e-a8ef-5672c5ecf55f?utm_source=github&utm_campaign=uk-insurance-reinsurance) | London, England, United Kingdom |  | Jun 26 |  |
-| **Arch Capital Group** | [Senior Insurance Technician](https://trylitos.com/job/d1736e22-7174-412c-ac55-352212b0bcf9?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Manchester, United Kingdom |  | Oct 15 |  |
 | **DXC Technology** | [Account Delivery Lead - Insurance](https://trylitos.com/job/c67c4e83-2711-4bbc-b35b-6378542579c2?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | GBR - ANY CITY |  | Oct 14 |  |
 | **AXIS Capital** | [Risk Analyst](https://trylitos.com/job/14dd5adc-e9ef-41a4-a610-2af8fa28ee2f?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London - Scalpel |  | Oct 14 |  |
 | **DXC Technology** | [Insurance Premium Technician](https://trylitos.com/job/5547fde8-69d1-43e9-9ced-940f5610a129?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | GBR - ANY CITY |  | Oct 13 |  |
@@ -220,9 +217,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **DXC Technology** | [Application System Support Manager (SQL / Insurance Systems)](https://trylitos.com/job/6677b148-e6c9-4a54-b05f-76c66d60c9bf?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | GBR - ANY CITY |  | Oct 6 |  |
 | **Sedgwick** | [Mitigation Technician](https://trylitos.com/job/1ae89537-3241-48f1-964a-d146486c147f?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | United Kingdom |  | Oct 6 |  |
 | **Howden** | [Policy Technician](https://trylitos.com/job/2aec0b0a-8551-44e1-bc27-43a402965067?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London |  | Oct 6 |  |
-| **Lloyd’s** | [Delegated Authority Oversight Manager](https://trylitos.com/job/1be65472-e223-4b58-8fe9-1e335b8de293?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Lloyd's UK: London |  | Oct 2 |  |
 | **Lloyd’s** | [Programme Lead, Lloyd's Academy (Insurance & Risk)](https://trylitos.com/job/f2d722a6-6684-46ca-8b39-69e56b5b9c61?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Lloyd's UK: London |  | Oct 1 |  |
-| **GSK** | [Insurance Analyst](https://trylitos.com/job/98161172-4034-4a45-b935-20f1c8222179?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London - New Oxford Street |  | Sep 29 |  |
 | **Chaucer Group** | [Delegated Authority Portfolio Specialist - Marine](https://trylitos.com/job/80af6298-602e-4615-9271-4ffcd557b04a?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London |  | Sep 29 |  |
 | **CMNO** | [Insurance Associate Bristol](https://trylitos.com/job/48c77290-7c69-42af-9be5-7902a5b5638a?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Bristol |  | Sep 25 |  |
 | **AIG** | [Premium Technician](https://trylitos.com/job/e8e01ed4-3d08-4d74-b80c-661f0d0baa44?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London |  | Sep 25 |  |
@@ -238,18 +233,14 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **AXIS Capital** | [Compliance Analyst](https://trylitos.com/job/6afd4c88-5432-4884-9a19-91e4b46e252e?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London - Scalpel |  | Aug 6 |  |
 | **AllianceBernstein** | [AO/AVP - Client Relations - EMEA Insurance](https://trylitos.com/job/b5951a37-535f-422e-bea5-bd7fc03e6e07?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London, UK |  | Jul 20 |  |
 | **Clyde & Co** | [Senior Associate - Financial Lines Insurance](https://trylitos.com/job/d63f1554-3117-4de2-ad09-c1634a15eb2d?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Edinburgh |  | Jun 1 |  |
-| **CMNO** | [Insurance Associate London](https://trylitos.com/job/4c605d84-d1d1-4330-8901-9f703cf6b195?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London Cannon Place |  | Apr 9 |  |
-| **Brown & Brown** | [Insurance Product Manager (Commercial)](https://trylitos.com/job/271f83ff-ac5a-4884-b981-a383d277ff98?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London, United Kingdom; Bromley, England, Uni |  | Jan 30 |  |
 | **Baringa** | [Consultant & Senior Consultant, Financial Services - General Insurance, London Markets and Life & Pensions](https://trylitos.com/job/c0ee3ea5-a362-41dc-ace1-bc74ca1a814d?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London, United Kingdom |  | Oct 12 |  |
 | **Baringa** | [Insurance Consulting, Senior Manager (Life & Pensions)](https://trylitos.com/job/479fd98a-1648-4766-b062-5d428cd01aa8?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London, United Kingdom |  | Oct 12 |  |
 | **Baringa** | [Insurance Consulting, Manager & Senior Manager (General Insurance)](https://trylitos.com/job/0505e070-24f6-4111-af5f-665d5c49139b?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | London, United Kingdom |  | Oct 12 |  |
-| **Capco** | [Business Strategy & Transformation Consultant - Commercial & Specialty Insurance](https://trylitos.com/job/b0fd7ffa-2390-46dd-90f9-80703c5a5fb7?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London |  | Oct 7 |  |
 | **Capco** | [Business Analyst - Commercial and Specialty Insurance](https://trylitos.com/job/c9fb3497-9fe0-40d2-b7d0-6049c012d1cf?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London |  | Oct 6 |  |
 | **Capco** | [Management Consultant - Commercial & Specialty Insurance](https://trylitos.com/job/42742fd9-e511-445f-888f-06e97d75dfe6?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London |  | Oct 5 |  |
 | **Capco** | [Management Consultant - Insurance - London Markets](https://trylitos.com/job/c4fd997c-5e40-4d3f-aa5d-ec50df2e288f?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London |  | Oct 5 |  |
 | **Capco** | [Managing Principal Consultant - General Insurance](https://trylitos.com/job/38baae8c-d94f-413f-b421-2f9f7314b98b?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | UK - London |  | Oct 5 |  |
 | **Shift Technology** | [Project Manager - Insurance & SaaS Delivery](https://trylitos.com/job/5e949d91-1175-496a-8948-a9dea0748f9f?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | United Kingdom - London |  | Sep 24 |  |
-| **CoverGo** | [Health Insurance Subject Matter Expert (Fully Remote)](https://trylitos.com/job/bf05d397-cfcd-4aad-ab6d-b2fa235ad9f4?utm_source=github&utm_campaign=uk-insurance-delegated-authority-operations) | Lisbon, Lisbon, Portugal / Porto, Porto Distr |  | Apr 14 |  |
 | **Bupa** | [Finance & Governance Placement Student](https://trylitos.com/job/afb518f8-9ff5-45f3-ab6d-72d585900e31?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **Howden** | [Internal Growth Execution Apprenticeship Programme 2027 - London](https://trylitos.com/job/bc101d6f-cff1-4c52-bba3-695d0ee94b54?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 12 |  |
 | **Howden** | [Directors & Officers Insurance Apprenticeship Programme 2027 - London](https://trylitos.com/job/bb04fe67-03f2-4a28-ae02-b34f15a3e3b5?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 9 |  |

@@ -1,11 +1,18 @@
-# 80 claims and loss adjusting roles
+# 72 claims and loss adjusting roles
 
-**80 roles at 19 companies.** Checked 15 Oct 2026. Claims handlers, adjusters, technicians and managers, and loss adjusters.
+**72 roles at 19 companies.** Checked 20 Oct 2026. Claims handlers, adjusters, technicians and managers, and loss adjusters.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **joining our Sedgwick family** | [Liability Adjuster / Claims Investigator - Third Party Property Damage](https://trylitos.com/job/81519a72-fa82-4ecf-9be8-f48a04c1e25b?utm_source=github&utm_campaign=uk-insurance-claims) | UK-London |  | Oct 19 |  |
+| **Markel** | [Claims Analytics Lead](https://trylitos.com/job/82492fba-9c0e-4a19-9860-7a6c2fc9eb5e?utm_source=github&utm_campaign=uk-insurance-claims) | London - UK |  | Oct 19 |  |
+| **joining our Sedgwick family** | [Property Adjuster - Solent](https://trylitos.com/job/3b5bfc51-628f-486c-af5e-8ce27dea4577?utm_source=github&utm_campaign=uk-insurance-claims) | Solent |  | Oct 16 |  |
+| **joining our Sedgwick family** | [Motor Claims Technician](https://trylitos.com/job/51d685f7-ee66-4282-8d7c-e2acb63129f5?utm_source=github&utm_campaign=uk-insurance-claims) | UK Home Worker |  | Oct 15 |  |
+| **joining our Sedgwick family** | [Claims Technician](https://trylitos.com/job/90d42e0e-0c06-430a-8cd3-7cecfa2c4ce1?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Oct 15 |  |
+| **AIG** | [Complex Motor Claims Handler](https://trylitos.com/job/c85878cf-ffca-4ff0-9c97-c42a1a2a5dea?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester |  | Oct 15 |  |
+| **joining our Sedgwick family** | [Property Adjuster - Scotland](https://trylitos.com/job/de4126ab-c454-4fe3-beff-e5430910a586?utm_source=github&utm_campaign=uk-insurance-claims) | Glasgow |  | Oct 15 |  |
 | **Sedgwick** | [Claims Technician - North England](https://trylitos.com/job/de86e6df-77f7-405e-a95f-350f0c6dd5ab?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester; Leeds |  | Oct 15 |  |
 | **Sedgwick** | [Claims Technician - Leeds/Manchester](https://trylitos.com/job/441bfebd-0cbc-40fc-893b-b29306e5aca1?utm_source=github&utm_campaign=uk-insurance-claims) | Leeds; Manchester |  | Oct 15 |  |
 | **Sedgwick** | [Claims Technician - London](https://trylitos.com/job/9376b360-881a-423d-9f89-3016b733e0ae?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Oct 15 |  |
@@ -51,7 +58,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Tokio Marine HCC** | [Claims Business Analyst](https://trylitos.com/job/b8df5f83-3821-4f12-b1f9-0bca4a15dc10?utm_source=github&utm_campaign=uk-insurance-claims) | UK - London ( St Botolph ) |  | Sep 16 |  |
 | **Tokio Marine HCC** | [Claims Technician](https://trylitos.com/job/20732ee0-fea2-4d83-91cc-5839cfbac110?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bridgend |  | Sep 16 |  |
 | **Hiscox** | [LM HPS Claims and Delegated Manager](https://trylitos.com/job/95723a17-061e-4bae-8d2b-6349f59a5b4d?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Sep 15 |  |
-| **Sedgwick** | [Claims Support Technician](https://trylitos.com/job/c6c9b0c8-c22c-45d3-924c-4363b5352f3e?utm_source=github&utm_campaign=uk-insurance-claims) | Cardiff; Birmingham |  | Sep 14 |  |
 | **Howden** | [Claims Handler - Commercial & Schemes](https://trylitos.com/job/89a387e1-ee70-4739-9be0-1edb285b4c21?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester - Howden House |  | Sep 10 |  |
 | **Howden** | [Claims Executive - Commercial & Schemes](https://trylitos.com/job/645821f2-4657-44f1-9a6f-caeb9855c49b?utm_source=github&utm_campaign=uk-insurance-claims) | Manchester - Howden House |  | Sep 10 |  |
 | **Sedgwick** | [Agriculture and Rural Network Claims Technician](https://trylitos.com/job/dd0b9cac-0a4c-47ea-9cae-1477cedc5687?utm_source=github&utm_campaign=uk-insurance-claims) | UK-Shrewsbury |  | Sep 10 |  |
@@ -60,31 +66,17 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Sedgwick** | [Private Clients Loss Adjuster - Birmingham/London & South East](https://trylitos.com/job/9a83ad58-50c0-4771-a300-f10498fca72a?utm_source=github&utm_campaign=uk-insurance-claims) | Birmingham; London |  | Sep 7 |  |
 | **MS Amlin** | [Claims Analytics Analyst - 12 Month Fixed Term Contract](https://trylitos.com/job/8a2dc961-d7b8-4659-b3dd-92c0deb1459d?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Sep 4 |  |
 | **Starr Insurance Companies** | [Claims Administration Assistant (6M FTC)](https://trylitos.com/job/41422902-3ffe-47ca-8097-187a34c01b39?utm_source=github&utm_campaign=uk-insurance-claims) | 30 Fenchurch Avenue, London, UK |  | Aug 28 |  |
-| **Sedgwick** | [Claims Technician - Domestic Major Loss - London](https://trylitos.com/job/e04285e8-e6a6-4f89-8be9-670d26bea5b3?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 27 |  |
-| **Markel** | [Senior Claims Adjuster](https://trylitos.com/job/0db7353e-f355-46bc-8e77-8d8a5f04b6c9?utm_source=github&utm_campaign=uk-insurance-claims) | London - UK |  | Aug 24 |  |
 | **AIG** | [Financial Lines Claims Adjuster](https://trylitos.com/job/449a4567-a6e1-42da-9807-5fd9e05e12c2?utm_source=github&utm_campaign=uk-insurance-claims) | London; Manchester |  | Aug 21 |  |
 | **Sedgwick** | [Team Leader - Subsidence Claims](https://trylitos.com/job/2249d33a-fab0-494e-8baa-4ca35fdab600?utm_source=github&utm_campaign=uk-insurance-claims) | UK-Glasgow |  | Aug 17 |  |
-| **Sedgwick** | [Commercial Property Loss Adjuster](https://trylitos.com/job/01ab0988-07be-4449-9116-e17332423648?utm_source=github&utm_campaign=uk-insurance-claims) | Leeds; Solent; UK-Glasgow; Edinburgh |  | Aug 17 |  |
 | **AXIS Capital** | [Claims Specialist, Liability](https://trylitos.com/job/87217958-f385-4a26-b661-fd95b14a1f06?utm_source=github&utm_campaign=uk-insurance-claims) | London - Scalpel |  | Aug 14 |  |
 | **Aviva** | [Claims Handler - Pet Claims](https://trylitos.com/job/da993405-d2bb-49a5-8c99-c83abd7d7d7f?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bristol - St Thomas Street |  | Aug 14 |  |
 | **MS Amlin** | [US and International Casualty Claims Manager](https://trylitos.com/job/f12ebb8a-e855-477c-ad6b-8027cdd4ba16?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 12 |  |
-| **Sedgwick** | [Commercial Property Claims Technician - Maternity Cover](https://trylitos.com/job/d9412b28-0bd9-4f02-88ce-1215c81cf105?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 11 |  |
-| **Sedgwick** | [Claims Investigator (Motor / Liability)](https://trylitos.com/job/363d9b90-d1f7-4c6b-8593-58faee6bce12?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 7 |  |
-| **Sedgwick** | [Subsidence Claims Consultant](https://trylitos.com/job/a5a59519-41fc-4fa0-adbf-4e3cbfd8cff3?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Aug 6 |  |
-| **Sedgwick** | [Private Clients Loss Adjuster - London & South East](https://trylitos.com/job/b5a8b8ed-81c2-46bd-8d9b-b59f5bda6e27?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Aug 5 |  |
 | **Arch Capital Group** | [Claims Handler](https://trylitos.com/job/0593fb57-85a6-4635-a8d3-dfeff5aacbc5?utm_source=github&utm_campaign=uk-insurance-claims) | Kent, United Kingdom |  | Jul 24 |  |
 | **Howden** | [Senior Claims Executive](https://trylitos.com/job/5e657414-24ab-424b-837e-ad20e69be007?utm_source=github&utm_campaign=uk-insurance-claims) | Birmingham Central - 45 Church Street |  | Jun 29 |  |
 | **Hiscox** | [Claims Quality Assurance Analyst](https://trylitos.com/job/c9a485fc-c3dc-493d-b7ca-47b296fc7b76?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Jun 26 |  |
 | **AXIS Capital** | [Senior Claims Specialist](https://trylitos.com/job/3728ce1f-f2c9-4908-a843-7cabead48c6b?utm_source=github&utm_campaign=uk-insurance-claims) | London - Scalpel |  | Jun 25 |  |
 | **Ryan Specialty** | [Claims Broker Technician](https://trylitos.com/job/74458ffb-1efa-4163-b36a-acdeec4ce94d?utm_source=github&utm_campaign=uk-insurance-claims) | London - UK - Fenchurch |  | Jun 22 |  |
-| **Sedgwick** | [Specialty Loss Adjuster](https://trylitos.com/job/2483b739-f3b8-4838-862f-968138679ea1?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | May 15 |  |
-| **Starr Insurance Companies** | [Claims Adjuster - International Casualty](https://trylitos.com/job/ab0bff4a-cbfe-4737-a3f2-0bcc62afd77c?utm_source=github&utm_campaign=uk-insurance-claims) | 30 Fenchurch Avenue, London, UK |  | Feb 16 |  |
-| **Sedgwick** | [Loss Adjuster - Technical and Special Risks](https://trylitos.com/job/34630c80-8651-473a-aade-6d347f725e5e?utm_source=github&utm_campaign=uk-insurance-claims) | London |  | Jan 23 |  |
-| **Sedgwick** | [Senior Loss Adjuster - Technical and Special Risk](https://trylitos.com/job/431ed9f7-1643-4177-b780-4b77fb7f7a4d?utm_source=github&utm_campaign=uk-insurance-claims) | UK Home Worker |  | Jan 23 |  |
-| **Tokio Marine HCC** | [Claims Adjuster - Professional Indemnity](https://trylitos.com/job/68e02f6d-4b96-4764-bf15-3efa7478c3bb?utm_source=github&utm_campaign=uk-insurance-claims) | UK - Bristol |  | Oct 28 |  |
 | **Steamship Insurance Management Services Ltd** | [Claims Executive](https://trylitos.com/job/4f326bfc-121d-40ba-abb2-fd30f0e309fc?utm_source=github&utm_campaign=uk-insurance-claims) | London, England, United Kingdom |  | Oct 12 |  |
 | **Steamship Insurance Management Services Ltd** | [Claims Associate](https://trylitos.com/job/6de6702f-88d9-44aa-b268-9f0391204f97?utm_source=github&utm_campaign=uk-insurance-claims) | London, England, United Kingdom |  | Jun 23 |  |
-| **Reserv** | [Bodily Injury/Credit Hire Claims Adjuster, UK](https://trylitos.com/job/ab34ad24-8100-4971-b06c-ea863e56359e?utm_source=github&utm_campaign=uk-insurance-claims) | United Kingdom |  | Jun 8 |  |
-| **Reserv** | [Property Claims Adjuster, UK](https://trylitos.com/job/1f6bcf74-6867-42eb-b004-7b09fe095931?utm_source=github&utm_campaign=uk-insurance-claims) | London, United Kingdom (Remote) |  | Apr 9 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)

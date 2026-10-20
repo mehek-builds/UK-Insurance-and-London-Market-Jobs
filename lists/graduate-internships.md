@@ -1,11 +1,15 @@
-# 23 graduate schemes, internships and apprenticeships roles
+# 25 graduate schemes, internships and apprenticeships roles
 
-**23 roles at 10 companies.** Checked 15 Oct 2026. Insurance graduate schemes, internships, placements, apprenticeships and trainee, junior and assistant roles.
+**25 roles at 9 companies.** Checked 20 Oct 2026. Insurance graduate schemes, internships, placements, apprenticeships and trainee, junior and assistant roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Ki** | [Digital Underwriting Assistant](https://trylitos.com/job/bc611b05-00c5-4f09-9f24-a4055e1b292c?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, England, United Kingdom |  | Oct 19 |  |
+| **Bupa** | [BUPA Finance & Governance Placement](https://trylitos.com/job/1867a82a-8865-4ae0-83fa-873ab7134813?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Salford Quays; Angel Court, London |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Travelers** | [Underwriting Assistant - Renewable Energy - 12 month FTC](https://trylitos.com/job/197ffd1e-d930-41fa-ba9c-9b9397204552?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | LON - London |  | Oct 15 |  |
+| **Howden** | [HR Assistant](https://trylitos.com/job/e5676ae8-5928-4f43-a402-c8b595a2a643?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Milton Keynes - The Avebury |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
 | **Sedgwick** | [Trainee Average Adjuster](https://trylitos.com/job/0c6e5664-0b11-4fac-ad07-b0b8a03cc863?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | UK-Liverpool Office |  | Oct 14 |  |
 | **Bupa** | [Finance & Governance Placement Student](https://trylitos.com/job/afb518f8-9ff5-45f3-ab6d-72d585900e31?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Salford Quays; Angel Court, London |  | Oct 13 |  |
 | **Bupa** | [Actuarial Placement Student](https://trylitos.com/job/626962f6-97a4-4359-8e18-ced343046c42?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Salford Quays; Angel Court, London |  | Oct 13 |  |
@@ -27,7 +31,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Starr Insurance Companies** | [Claims Administration Assistant (6M FTC)](https://trylitos.com/job/41422902-3ffe-47ca-8097-187a34c01b39?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | 30 Fenchurch Avenue, London, UK |  | Aug 28 |  |
 | **Travelers** | [Senior Assistant Pricing Actuary](https://trylitos.com/job/addadeb0-645c-4d8f-ae1b-70b2d0fd6bb2?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | LON - London; D - Dublin; SRY - Redhill |  | Jun 24 |  |
 | **Ki** | [Assistant Underwriter - Cyber & Tech E&O](https://trylitos.com/job/a8776a86-0590-4a2e-80ff-1c64127fcb6a?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, England, United Kingdom |  | Sep 15 |  |
-| **Ki** | [Assistant Underwriter - Property Worldwide](https://trylitos.com/job/695c1d04-da52-435d-96d0-33d86fb6e1e9?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, England, United Kingdom |  | Sep 15 |  |
-| **Steamship Insurance Management Services Ltd** | [Reinsurance Assistant](https://trylitos.com/job/e9353aff-bcc9-4d81-b666-0a3c14ec961e?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, England, United Kingdom |  | Sep 10 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
