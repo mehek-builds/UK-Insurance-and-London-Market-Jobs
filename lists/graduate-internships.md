@@ -1,13 +1,16 @@
-# 23 graduate schemes, internships and apprenticeships roles
+# 25 graduate schemes, internships and apprenticeships roles
 
-**23 roles at 10 companies.** Checked 2 Nov 2026. Insurance graduate schemes, internships, placements, apprenticeships and trainee, junior and assistant roles.
+**25 roles at 9 companies.** Checked 9 Nov 2026. Insurance graduate schemes, internships, placements, apprenticeships and trainee, junior and assistant roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Arch Capital Group** | [Technology & Change Graduate Programme 2027](https://trylitos.com/job/7614a659-8b7d-47be-9b8b-8110db980936?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, United Kingdom |  | Nov 3 |  |
+| **Arch Capital Group** | [Tax Graduate Programme 2027](https://trylitos.com/job/4cbaeaf0-db57-4ad0-ba69-e91855476c97?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, United Kingdom |  | Nov 3 |  |
+| **Arch Capital Group** | [Actuarial Summer Internship - 2027](https://trylitos.com/job/d7bd8dbf-a5b5-444f-a871-9915ec81f24d?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London, United Kingdom |  | Nov 3 |  |
+| **Howden** | [Junior Broker](https://trylitos.com/job/11b76e65-6755-4bcc-9436-52d287711ee6?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London |  | Nov 2 | Employer holds a UK sponsor licence (Home Office register) |
 | **TP ICAP** | [Global Broking Summer Internship 2027, London](https://trylitos.com/job/b87fb12f-e333-4628-abfb-0b375048d31f?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London |  | Oct 30 |  |
-| **Travelers** | [Underwriting Assistant](https://trylitos.com/job/2f9d332d-8b51-4768-8c48-ede4f1758a91?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | LON - London |  | Oct 29 |  |
 | **Markel** | [Underwriting Support Assistant](https://trylitos.com/job/4f5c07cc-3a5f-43e9-97fc-14d16e47ab24?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Leeds - UK |  | Oct 29 |  |
 | **Travelers** | [Senior Assistant Pricing Actuary](https://trylitos.com/job/addadeb0-645c-4d8f-ae1b-70b2d0fd6bb2?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | LON - London; D - Dublin; SRY - Redhill |  | Oct 26 |  |
 | **Howden** | [Credit & Political Risk Insurance Operations Apprenticeship Programme 2027 - London](https://trylitos.com/job/d70ef9c9-b12f-425e-abf2-287980d47466?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 22 | Employer holds a UK sponsor licence (Home Office register) |
@@ -17,7 +20,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Howden** | [Internal Growth Execution Apprenticeship Programme 2027 - London](https://trylitos.com/job/bc101d6f-cff1-4c52-bba3-695d0ee94b54?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 12 | Employer holds a UK sponsor licence (Home Office register) |
 | **Howden** | [Directors & Officers Insurance Apprenticeship Programme 2027 - London](https://trylitos.com/job/bb04fe67-03f2-4a28-ae02-b34f15a3e3b5?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 9 | Employer holds a UK sponsor licence (Home Office register) |
 | **Howden** | [Marine, Cargo & Logistics Insurance Apprenticeship Programme 2027 - London](https://trylitos.com/job/05c54ced-2a6a-4bd3-9b7c-06528ea5f78c?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | London - One Creechurch Place |  | Oct 9 | Employer holds a UK sponsor licence (Home Office register) |
-| **Tokio Marine HCC** | [Underwriting Assistant - Liability](https://trylitos.com/job/e2b6f896-1ba1-4a39-a382-87b53f806284?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | UK - London ( St Botolph ) |  | Oct 9 |  |
 | **Howden** | [High Net-Worth Insurance Apprenticeship Programme 2027 - Manchester](https://trylitos.com/job/f143f434-1518-46fe-8dac-c333c47faaa3?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Manchester - Howden House |  | Oct 9 | Employer holds a UK sponsor licence (Home Office register) |
 | **Howden** | [Insurance Apprenticeship Programme 2027 - Manchester](https://trylitos.com/job/8073aafc-6535-45f0-97e0-58b7a48ab537?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Manchester - Howden House |  | Oct 9 | Employer holds a UK sponsor licence (Home Office register) |
 | **Howden** | [Insurance Claims Apprenticeship Programme 2027 - Birmingham](https://trylitos.com/job/8857ff70-71f1-4389-bad0-508dedeafa39?utm_source=github&utm_campaign=uk-insurance-graduate-internships) | Birmingham Central - 45 Church Street |  | Oct 9 | Employer holds a UK sponsor licence (Home Office register) |
